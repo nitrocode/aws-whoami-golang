@@ -3,11 +3,11 @@ module github.com/benkehoe/aws-whoami-golang/v2
 go 1.19
 
 require (
-	github.com/aws/aws-sdk-go-v2 v1.17.5
+	github.com/aws/aws-sdk-go-v2 v1.23.4
 	github.com/aws/aws-sdk-go-v2/config v1.18.14
 	github.com/aws/aws-sdk-go-v2/service/iam v1.19.3
 	github.com/aws/aws-sdk-go-v2/service/sts v1.18.4
-	github.com/aws/smithy-go v1.13.5
+	github.com/aws/smithy-go v1.18.1
 )
 
 require (
